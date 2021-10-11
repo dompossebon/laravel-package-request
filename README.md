@@ -11,3 +11,8 @@ Acessar o projeto
 ```sh
 cd laravel-package-request
 ```
+
+Para Instalar
+```sh
+composer require dompossebon/microservices-common
+```
