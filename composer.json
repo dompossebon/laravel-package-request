@@ -1,0 +1,19 @@
+{
+    "name": "dompossebon/microservices-common",
+    "description": "Facilita a utilização de Request para outros Projetos",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexandre Possebon",
+            "email": "dompossebon@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Dompossebon\\MicroservicesCommon": "src/"
+        }
+    }
+}
